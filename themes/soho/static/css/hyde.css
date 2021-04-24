@@ -76,7 +76,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #cc8B65;
 }
 
 /* About section */
@@ -113,6 +113,7 @@ a.sidebar-nav-item:focus {
   padding-top: 1rem;
   padding-bottom: 1rem;
   min-height: 50%;
+  color: #100c0d;
 }
 
 
@@ -128,8 +129,8 @@ footer {
   height: 40px;
   padding: 1rem 0;
   margin: 0 1rem;
-  border-top: 1px solid #e0e0e0;
-}
+  border-top: 1px solid #100C0D;
+  }
 
 
 @media (min-width: 48em) {
@@ -147,7 +148,7 @@ footer {
 }
 
 .img-headshot {
-  border: 6px solid #fff;
+  border: 6px solid #cc8B65;
   height: 180px;
   width: 180px;
 }
@@ -160,12 +161,12 @@ footer {
 
 .sidebar {
   background-color: #49757a;
-  color: #fff;
+  color: #cc8B65;
 }
 
 .sidebar a,
 .sidebar-about h1 {
-  color: #fff;
+  color: #cc8B65;
 }
 
 footer a,
