@@ -45,6 +45,12 @@ html {
   }
 }
 
+body {
+  color: #100C0D;
+  background-color: #E3DCD2;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%;
 
 /*
  * Sidebar
