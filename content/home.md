@@ -7,4 +7,4 @@ aliases = ["about-us","about-hugo"]
 author = "Hugo Authors"
 +++
 
-this is the homepage learn to write markdozn https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+this is the homepage learn to write markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
