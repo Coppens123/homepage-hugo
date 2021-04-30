@@ -44,27 +44,6 @@ html {
     font-size: 20px;
   }
 }
-
-body {
-  color: #100C0D;
-  background-color: #E3DCD2;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
-          text-size-adjust: 100%;
-
-/*
- * Sidebar
- *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
- */
-
-.sidebar {
-  text-align: center;
-  padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
-}
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -73,16 +52,35 @@ body {
     bottom: 0;
     width: 18rem;
   }
-
-  footer {
-    margin-left: 19rem !important;
-    margin-right: 1rem !important;
-  }
 }
+body {
 
+  color: #100C0D;
+  background-color: #E3DCD2;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+          text-size-adjust: 100%;
+ /* Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+
+}
+footer {
+  margin-left: 19rem !important;
+  margin-right: 1rem !important;
+}
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
 /* Sidebar links */
 .sidebar a {
-  color: #cc8B65;
+ color: #cc8B65; 
 }
 
 /* About section */
