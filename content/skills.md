@@ -5,12 +5,8 @@ date = "2019-02-28"
 aliases = ["skills"]
 author = "Yel Coppens"
 +++
-Vergeet Pipi Langkous en haar "nog nooit geprobeerd, dus ik denk dat ik het wel kan"-filosofie.
+Vergeet Pipi Langkous en haar "*nog nooit geprobeerd, dus ik denk dat ik het wel kan*"-filosofie.
 
-Deze tools heb uitgebreid uitgeprobeerd & in de vingers:
+Deze tools heb ik uitgebreid uitgeprobeerd & dus ik weet hoe ik ermee kan werken:
 
-Google Ads
-Google Analytics
-Google Tag Manager
-Facebook Business Manager
-Linkedin Campaign Manager
+![overzicht Skills Yel](../images/skills_yel.png)
