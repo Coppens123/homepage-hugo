@@ -2,7 +2,7 @@
 title = "Skills"
 description = "Een overzichtje van de tools waarmee ik kan werken"
 date = "2019-02-28"
-aliases = ["about-us","about-hugo"]
+aliases = ["skills"]
 author = "Yel Coppens"
 +++
 Vergeet Pipi Langkous en haar "nog nooit geprobeerd, dus ik denk dat ik het wel kan"-filosofie.
