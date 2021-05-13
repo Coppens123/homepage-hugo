@@ -4,6 +4,7 @@ description = "Een overzichtje van de tools waarmee ik kan werken"
 date = "2019-02-28"
 aliases = ["skills"]
 author = "Yel Coppens"
+disableShare = true
 +++
 Vergeet Pipi Langkous en haar "*nog nooit geprobeerd, dus ik denk dat ik het wel kan*"-filosofie.
 

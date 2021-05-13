@@ -9,7 +9,8 @@ enableEmoji = true
 
 [params]
 author = "Yel Coppens"
-description = "Freelance marketeer"
+description = "Freelance marketeer"  
+gtm = "GTM-TS3KQL5"
 
 ## Set one of:
 # gravatar = "yelcoppens.be"
