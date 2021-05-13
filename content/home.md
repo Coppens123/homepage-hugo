@@ -8,11 +8,8 @@ author = "Yel Coppens"
 +++
 
 
-Ik ben Yel, freelance online marketeer.
+Ik ben Yel, freelance online marketeer uit Gent.
 
-Ik help je graag bij adverteren op social media of Google.
+I loooove marketing. Daarom startte ik, naast mijn job als marketeer, ook dit bijberoep voor kleinere projecten. Marketing op social media (vooral Facebook en Instagram) en Google (Search) zijn helemaal mijn ding, maar ik leer immer bij en hoor graag waarbij ik jou/jouw organisatie zou kunnen helpen.
 
-Zin om samen te werken? Stuur me gerust [een mailtje](yelcoppens@hotmail.com).
-
-
-this is the homepage learn to write markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Zin om samen te werken? Stuur gerust [een mailtje](yelcoppens@hotmail.com)! :)
