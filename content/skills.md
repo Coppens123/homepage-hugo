@@ -9,4 +9,4 @@ Vergeet Pipi Langkous en haar "*nog nooit geprobeerd, dus ik denk dat ik het wel
 
 Deze tools heb ik uitgebreid uitgeprobeerd & dus ik weet hoe ik ermee kan werken:
 
-![overzicht Skills Yel](../images/skills_yel.png)
+![overzicht Skills Yel](../images/skills_marketing.png)
