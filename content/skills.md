@@ -7,5 +7,5 @@ author = "Yel Coppens"
 +++
 Vergeet Pipi Langkous en haar "*nog nooit geprobeerd, dus ik denk dat ik het wel kan*"-filosofie.
 
-Deze tools heb ik al vaak gebruikt & ik weet dat ik ermee aan de slag kan :)
+Deze tools heb ik al vaak gebruikt & ik weet dus dat ik ermee aan de slag kan :)
 ![overzicht skills](../images/skills_marketing.png)
