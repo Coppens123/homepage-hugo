@@ -42,10 +42,10 @@ customJs = ["js/blog.js"]
   url = "/posts/"
 
   [[menu.main]]
-  name = "About"
-  identifier = "about"
+  name = "Skills"
+  identifier = "skills"
   weight = 300
-  url = "/about/"
+  url = "/skills/"
 
 [taxonomies]
   category = "categories"
