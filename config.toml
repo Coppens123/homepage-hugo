@@ -9,7 +9,9 @@ enableEmoji = true
 
 [params]
 author = "Yel Coppens"
-description = "Freelance marketeer"  
+description = "Online marketeer"  
+images= ["favicon.png"]
+title= "Online Marketing"
 gtm = "GTM-TS3KQL5"
 
 ## Set one of:
