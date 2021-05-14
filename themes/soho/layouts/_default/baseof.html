@@ -11,7 +11,7 @@
   <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   {{- end }}
 
-  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  <meta name="description" content="Ik ben Yel, freelance online marketeer uit Gent. I loooove marketing. Daarom startte ik, naast mijn job als marketeer, ook dit bijberoep voor kleinere projecten. " />
 
   {{ partial "seo.html" . }}
 
@@ -44,9 +44,10 @@
 
   <link rel="apple-touch-icon-precomposed"
         sizes="144x144"
-        href="/apple-touch-icon-144-precomposed.png">
+        href="/favicon.png">
 
-  <link rel="shortcut icon" href="/favicon.png">
+  <link rel="og:image" href="/favicon.png">
+  
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
