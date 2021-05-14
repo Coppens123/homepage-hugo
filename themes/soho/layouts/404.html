@@ -1,7 +1,9 @@
 {{ define "main" -}}
 <h1>Page not found</h1>
 <p class="lead">
-    Oeps, hier liep iets fout :( )
-    <a href="{{ .Site.BaseURL }}">Terug naar homepage</a>, opnieuw proberen :)
-</p>
-{{- end }}
+    Overal gekeken, maar deze pagina lijkt verdwenen :( )
+    <a href="{{ .Site.BaseURL }}">Terug naar de homepage</a>, eens opnieuw proberen :)</p>
+
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_r71cen62.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+    {{- end }}
