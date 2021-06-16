@@ -60,7 +60,11 @@
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
   {{ end -}}
-  <script src="https://cdn.websitepolicies.io/lib/cookieconsent/1.0.3/cookieconsent.min.js" defer></script><script>window.addEventListener("load",function(){window.wpcc.init({"border":"thick","corners":"large","colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#1d6d4f"},"button":{"background":"#057252","text":"#f5f1f1"}},"position":"bottom-right","transparency":"15","fontsize":"large","margin":"large","content":{"message":"Geen cookies op mijn website! Wel aan het oefenen op het plaatsen van een banner ;)","button":"Joepie!","link":"Waarom geen cookies?","href":"https://www.yel-coppens.be/posts/my-first-blog-post/"}})});</script>
+
+  {{ if eq .Page.Title "Nergens cookies BEHALVE hier"  -}}
+  <script src="https://cdn.websitepolicies.io/lib/cookieconsent/1.0.3/cookieconsent.min.js" defer></script><script>window.addEventListener("load",function(){window.wpcc.init({"border":"thick","corners":"large","colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#1d6d4f"},"button":{"background":"#057252","text":"#f5f1f1"}},"position":"bottom-right","transparency":"15","fontsize":"large","margin":"large","content":{"message":"Geen cookies op deze website, negeer dus dit pop-up venster maar :)","button":"No need to click here.","link":"Terug naar de homepage?","href":"https://www.yel-coppens.be"}})});</script>
+  {{- end }}
+
 </head>
 <body>
       <!-- Google Tag Manager (noscript) -->
