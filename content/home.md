@@ -14,8 +14,4 @@ I loooove marketing. Daarom startte ik, naast mijn job als marketeer, ook dit bi
 
 Zin om samen te werken? Stuur gerust [een mailtje](mailto:yelcoppens@hotmail.com)! :)
 
-Op welke sociale media ben jij actief? Ik maakte een vragenlijst met enkele handige basisvragen:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3c0E4WcWKf_pXsXYBayneN_w8Udi3hwmAGGFWFhhd0c6VkA/viewform?embedded=true" width="640" height="2642" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
-
 ![gif](../images/working2.gif)
