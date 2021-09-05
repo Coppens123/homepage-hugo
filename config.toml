@@ -50,6 +50,12 @@ customJs = ["js/blog.js"]
   weight = 300
   url = "/skills/"
 
+  [[menu.main]]
+  name = "vragenlijst"
+  identifier = "vragenlijst"
+  weight = 300
+  url = "/vragenlijst/"
+
 [taxonomies]
   category = "categories"
   series = "series"
