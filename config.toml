@@ -72,4 +72,4 @@ customJs = ["js/blog.js"]
   lineNumbersInTable = true
   noClasses = true # if false, you need to provide you own custom CSS
   style = "monokai"
-  tabWidth = 
+  tabWidth = 4
